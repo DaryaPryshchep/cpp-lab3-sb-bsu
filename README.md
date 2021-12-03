@@ -5,6 +5,6 @@
 * 4.3  Use if statement to modify the program so that it outputs a warning if the user input is not an integer. After the warning the program should prompt for the integer again.
 
 ## Actually I did both of tasks in one code, that's why I apploaded the same codes in different branches... ⭐
-I hope that it isn't a problem 🔭
+I hope that it isn't a problem ☺️
 
 
